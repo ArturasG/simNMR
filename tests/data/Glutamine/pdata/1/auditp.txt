@@ -1,0 +1,36 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lylian1
+$$ /opt/topspin3.1.7a/data/met_test/nmr/Standards_29March14/41/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2014-03-30 23:59:08.621 +0000>,<lylian1>,<pc198014>,<go>,<TOPSPIN 3.1>,
+      <created by zg
+	started at 2014-03-30 23:55:00.302 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       6E 27 FA 2D B0 C2 80 95 68 2F C2 71 5C D5 14 25
+       data hash MD5: 96K
+       49 81 13 BF 73 2D E6 AE BC B4 22 01 8D BA 08 A2>)
+(   2,<2014-03-30 23:59:08.812 +0000>,<lylian1>,<pc198014>,<audit>,<TOPSPIN 3.1>,
+      <user comment:
+       ICON-NMR User ID: met_test
+       data hash MD5: 96K
+       49 81 13 BF 73 2D E6 AE BC B4 22 01 8D BA 08 A2>)
+(   3,<2014-03-30 23:59:09.690 +0000>,<lylian1>,<pc198014>,<proc1d>,<TOPSPIN 3.1>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 128K 
+       data hash MD5: 128K
+       54 D8 94 E8 EC 6B 0E 1D 67 12 18 40 FF 6B 6D 67>)
+(   4,<2014-03-30 23:59:10.986 +0000>,<lylian1>,<pc198014>,<proc1d>,<TOPSPIN 3.1>,
+      <pk PHC0 = -39.92432 PHC1 = 0 
+       data hash MD5: 128K
+       87 73 1D BD B5 FC 2D 71 8F 74 2D 47 31 71 53 4C>)
+(   5,<2014-05-29 15:21:07.945 +0100>,<mjfi9jc3>,<dh198115.sbs.liv.ac.uk>,<proc1d>,<TOPSPIN 3.1>,
+      <pk fgphup PHC0 = 1.2 PHC1 = 0 
+       data hash MD5: 128K
+       3F E8 CD 99 98 BB F9 F6 C4 B1 62 85 68 F2 6E BE>)
+##END=
+
+$$ hash MD5
+$$ 94 0B F5 43 24 11 B6 B5 AA F9 38 21 77 78 65 9F

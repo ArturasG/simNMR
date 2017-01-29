@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lylian1
+$$ /opt/topspin3.1.7a/data/met_test/nmr/Standards_29March14/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2014-03-28 20:13:26.224 +0000>,<lylian1>,<pc198014>,<go>,<TOPSPIN 3.1>,
+      <created by zg
+	started at 2014-03-28 20:09:17.925 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       6E 27 FA 2D B0 C2 80 95 68 2F C2 71 5C D5 14 25
+       data hash MD5: 96K
+       E3 BE 5A AC 9B 28 E7 C6 7C 44 C5 7B EE 53 15 CF>)
+(   2,<2014-03-28 20:13:26.414 +0000>,<lylian1>,<pc198014>,<audit>,<TOPSPIN 3.1>,
+      <user comment:
+       ICON-NMR User ID: met_test
+       data hash MD5: 96K
+       E3 BE 5A AC 9B 28 E7 C6 7C 44 C5 7B EE 53 15 CF>)
+##END=
+
+$$ hash MD5
+$$ D0 43 01 E9 8D 25 B2 26 C1 10 6B 81 0F DE A3 F5

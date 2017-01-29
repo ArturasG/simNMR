@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mjfi9jc3
+$$ 2014-07-08 09:36:54.362 +0100  sgdcoelh@pc196121
+$$ /home/sgdcoelh/data/standards/nmr/1D_standards_298K/10/pdata/1/assocs
+$$ process /opt/topspin3.1/prog/mod/dataserver
+##$MULTDISP= </home/sgdcoelh/data/standards/nmr/Standards_h_070714/84/pdata/1>
+##END=

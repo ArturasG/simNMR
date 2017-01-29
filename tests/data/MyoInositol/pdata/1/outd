@@ -1,0 +1,15 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lylian1
+$$ 2014-06-25 10:16:21.388 +0000  lylian1@pc198014
+$$ /opt/topspin3.1.7a/prog/curdir/changer/inmrchanger/Jun25-2014-1005-met_test/377/data/nmr/Standard_h_250614/20/pdata/1/outd
+##$CURPLOT= <PDF Complete>
+##$CURPRIN= <$PDF Complete>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

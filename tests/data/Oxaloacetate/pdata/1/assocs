@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mjfi9jc3
+$$ 2014-05-20 15:32:12.389 +0100  mjfi9jc3@dh198115.sbs.liv.ac.uk
+$$ /home/mjfi9jc3/data/met_standards/nmr/1D_standards/20/pdata/1/assocs
+$$ process /opt/topspin3.1/prog/mod/dataserver
+##$MULTDISP= </home/mjfi9jc3/data/met_standards/nmr/1D_standards/30/pdata/1|/home/mjfi9jc3/data/met_standards/nmr/1D_standards/40/pdata/1|/home/mjfi9jc3/data/met_standards/nmr/1D_standards/50/pdata/1|/home/mjfi9jc3/data/met_standards/nmr/Standards_29March14/20/pdata/1|/home/mjfi9jc3/data/met_standards/nmr/Standards_29March14/30/pdata/1|/home/mjfi9jc3/data/met_standards/nmr/Standards_29March14/41/pdata/1|/home/mjfi9jc3/data/met_standards/nmr/Standards_29March14/51/pdata/1>
+##END=
